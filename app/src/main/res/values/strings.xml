@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">TravelGuideME</string>
+    <string name="mainBackground">MainWallpaper</string>
+    <!--Text views-->
+    <string name="mainTitle">Traveller</string>
+    <string name="selectCountry">Select Country</string>
+    <string name="fav">Your Favourite</string>
+    <string name="memo">Your Memo</string>
+    <string name="about">About Us</string>
+    <string name="country_details">Country Details</string>
+
+
+    <!--Buttons in the mainXML window-->
+    <string name="txt_Select_country">Select Country</string>
+    <string name="txt_fav">Your Favourite</string>
+    <string name="txt_memo">Your Memo</string>
+    <string name="txt_about">About Us</string>
+
+    <string name="about_content">
+        This mobile "Travel Guide Me" project developed for Mobile Application project
+        Fully native framework has used to create these.
+        Sustainable for upper version thatn 6.0 Android.
+    </string>
+
+    <string name="about_developers">
+        This app was developed by undergraduates in NSBM green university.
+    </string>
+
+    <string name="country_name">Country Name :</string>
+    <string name="capital">Capital :</string>
+    <string name="pop">Population(Mil) :</string>
+    <string name="lang">Main Language :</string>
+    <string name="cur">Currency</string>
+    <string name="city">Cities :</string>
+
+    <string name="data_not_available">Data not available...</string>
+    <string name="data_available">The details about the country</string>
+
+</resources>
